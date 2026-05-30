@@ -167,4 +167,4 @@ jupyter
 
 **Annadi Nivesh Reddy**
 MSc Computer Science — Middlesex University, London
-[LinkedIn](https://www.linkedin.com/in/niveshreddy531) | niveshreddy756@gmail.com | [GitHub](https://github.com/niveshreddy531)
+[LinkedIn](https://www.linkedin.com/in/niveshreddy) | niveshreddy756@gmail.com | [GitHub](https://github.com/niveshreddy531)
